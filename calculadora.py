@@ -13,4 +13,4 @@ print("RESULTADO DA MULTIPLICAÇÃO: " , mul)
 div = num01 // num02 
 print("RESULTADO DA DIVISÃO: " , div)
 resto = num01 % num02
-print("RESTO DA DIVISÃO: " , resto)
+print("RESTO DA DIVISÃO : " , resto)
